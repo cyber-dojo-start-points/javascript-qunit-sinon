@@ -1,11 +1,12 @@
 {
   "display_name": "Javascript, qunit+sinon",
-  "image_name": "cyberdojofoundation/javascript_node_qunit_sinon:ae28bd5",
+  "image_name": "cyberdojofoundation/javascript_node_qunit_sinon:c4a793f",
   "visible_filenames": [
     "hiker-test.js",
     "hiker.js",
     "cyber-dojo.sh",
-    ".jshintrc"
+    ".eslintrc.json",
+    "package.json"
   ],
   "filename_extension": [
     ".js"
