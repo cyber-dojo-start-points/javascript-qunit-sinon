@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript 23.3, qunit 2.22/sinon 19.0.2",
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_qunit_sinon:617a26b",
+  "display_name": "JavaScript 23.4, qunit 2.23.1/sinon 19.0.2",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_qunit_sinon:3247b3f",
   "visible_filenames": [
     "hiker-test.js",
     "hiker.js",
