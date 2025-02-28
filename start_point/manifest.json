@@ -5,7 +5,7 @@
     "hiker-test.js",
     "hiker.js",
     "cyber-dojo.sh",
-    ".eslintrc.json",
+    "eslint.config.js",
     "package.json"
   ],
   "filename_extension": [
