@@ -12,5 +12,7 @@ trap cyber_dojo_exit EXIT SIGTERM
 # --------------------------------------------------------------
 ln -s /etc/qunit_sinon/node_modules ${CYBER_DOJO_SANDBOX}/node_modules
 
-npm run lint
-npm run test
+# Calling [npm run ...] is sloooow so we don't to that.
+
+node_modules/.bin/eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js
+node_modules/.bin/nyc node_modules/.bin/qunit-cli *test*.js
