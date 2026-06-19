@@ -1,5 +1,13 @@
 {
   "display_name": "JavaScript 25.8, qunit 2.25/sinon 21.0",
+  "language": [
+    "JavaScript",
+    "25.8"
+  ],
+  "test_framework": [
+    "qunit, sinon",
+    "2.25, 21.0"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_qunit_sinon:7904a9a",
   "visible_filenames": [
     "hiker-test.js",
