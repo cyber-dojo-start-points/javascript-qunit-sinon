@@ -23,7 +23,7 @@
   "max_seconds": 10,
   "tab_size": 2,
   "progress_regexs": [
-    "/W*d+W+d+W+d+W+([1-9]d*)W+(d+)W+d+W+/",
-    "/W*d+W+d+W+d+W+(0)W+d+W+d+W+/"
+    "\\d+ tests of \\d+ passed, ([1-9]\\d*) failed",
+    "(\\d+) tests of \\d+ passed\\."
   ]
 }
