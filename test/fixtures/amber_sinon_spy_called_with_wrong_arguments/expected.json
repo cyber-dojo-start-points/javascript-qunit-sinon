@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^ +Died on test #1": 1,
+    "expected answer to be called with arguments": 1,
+    "^'\"life\"' '\"the universe\"' $": 1,
+    "^0 tests of 1 passed, 1 failed\\.$": 1,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

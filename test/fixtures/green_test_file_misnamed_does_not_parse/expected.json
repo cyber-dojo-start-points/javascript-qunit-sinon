@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 30,
+  "match_counts": {
+    "^1 tests of 1 passed\\.$": 1,
+    "^/sandbox/hiker_spec\\.js$": 1,
+    "^ +[0-9]+:[0-9]+ +error +Parsing error: ": 1,
+    "^. 1 problem \\(1 error, 0 warnings\\)$": 1,
+    "failed": 0,
+    "Died on test": 0
+  },
+  "truncated": false
+}

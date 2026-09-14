@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 25,
+  "match_counts": {
+    "^0 tests of 0 passed\\.$": 1,
+    "answer$": 1,
+    "to life the universe and everything": 0,
+    "failed": 0,
+    "Died on test": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

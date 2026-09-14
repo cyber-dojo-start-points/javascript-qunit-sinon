@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 25,
+  "match_counts": {
+    "^0 tests of 0 passed\\.$": 1,
+    "^Tests completed in ": 1,
+    "failed": 0,
+    "Died on test": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

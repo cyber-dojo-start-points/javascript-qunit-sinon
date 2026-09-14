@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Error: Cannot find module '/sandbox/\\*test\\*\\.js'$": 1,
+    "^ +code: 'MODULE_NOT_FOUND',$": 1,
+    "tests of": 0,
+    "Died on test": 0
+  },
+  "truncated": false
+}

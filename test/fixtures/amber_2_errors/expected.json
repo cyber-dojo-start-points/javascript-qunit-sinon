@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^ +Died on test #1": 2,
+    "Cannot read properties of null \\(reading 'length'\\)": 2,
+    "^0 tests of 2 passed, 2 failed\\.$": 1,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

@@ -14,5 +14,5 @@ ln -s /etc/qunit_sinon/node_modules ${CYBER_DOJO_SANDBOX}/node_modules
 
 # Calling [npm run ...] is sloooow so we don't to that.
 
-node_modules/.bin/eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js
+node_modules/.bin/eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.mjs /**/*.js
 node_modules/.bin/nyc node_modules/.bin/qunit-cli *test*.js

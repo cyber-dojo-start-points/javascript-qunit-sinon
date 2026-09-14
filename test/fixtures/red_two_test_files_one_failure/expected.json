@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^3 tests of 4 passed, 1 failed\\.$": 1,
+    "^ +has three digits$": 1,
+    "^ +2 != 3$": 1,
+    "Died on test": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

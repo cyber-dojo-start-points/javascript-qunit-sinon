@@ -1,0 +1,13 @@
+{
+  "match_counts": {
+    "^0 tests of 3 passed, 3 failed\\.$": 1,
+    "^ +to life the universe and everything$": 1,
+    "^ +is six times seven$": 1,
+    "^ +is not six times nine$": 1,
+    "^ +54 != 42$": 2,
+    "^ +54 != 54$": 1,
+    "Died on test": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 25,
+  "match_counts": {
+    "^4 tests of 4 passed\\.$": 1,
+    "hiker": 0,
+    "failed": 0,
+    "Died on test": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

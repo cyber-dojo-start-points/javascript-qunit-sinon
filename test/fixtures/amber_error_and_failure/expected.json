@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^ +Died on test #1": 1,
+    "Cannot read properties of null \\(reading 'length'\\)": 1,
+    "^ +to life the universe and everything$": 1,
+    "^ +54 != 42$": 1,
+    "^0 tests of 2 passed, 2 failed\\.$": 1,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}

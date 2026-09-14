@@ -1,0 +1,10 @@
+{
+  "matches": [ "^debug: i is 1, total is 2$" ],
+  "match_counts": {
+    "^debug: i is 0, total is 0$": 1,
+    "^Tests completed in ": 0,
+    "tests of": 0,
+    "Died on test": 0
+  },
+  "truncated": true
+}

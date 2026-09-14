@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js",
+    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.mjs /**/*.js",
     "test": "nyc qunit-cli *test*.js"
   },
   "nyc": {

@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^2 tests of 3 passed, 1 failed\\.$": 1,
+    "^ +to life the universe and everything$": 1,
+    "^ +54 != 42$": 1,
+    "Died on test": 0,
+    "SyntaxError": 0
+  },
+  "truncated": false
+}
