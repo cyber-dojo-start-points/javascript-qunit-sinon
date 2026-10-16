@@ -1,14 +1,14 @@
 {
-  "display_name": "JavaScript 25.8, qunit 1.23/sinon 21.0",
+  "display_name": "JavaScript 26.12.0, qunit 3.0.0/sinon 22.1.0",
   "language": [
     "JavaScript",
-    "25.8"
+    "26.12.0"
   ],
   "test_framework": [
     "qunit, sinon",
-    "1.23, 21.0"
+    "3.0.0, 22.1.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_qunit_sinon:7904a9a",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_qunit_sinon:f2474a6@sha256:137e97a03e55b22180016eaf0d84ac8494b87931bfafabbcbfd78f4c65288aa9",
   "visible_filenames": [
     "hiker-test.js",
     "hiker.js",
