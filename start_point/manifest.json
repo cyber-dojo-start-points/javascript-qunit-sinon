@@ -20,7 +20,6 @@
   "filename_extension": [
     ".js"
   ],
-  "max_seconds": 10,
   "tab_size": 2,
   "progress_regexs": [
     "\\d+ tests of \\d+ passed, ([1-9]\\d*) failed",
